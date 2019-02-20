@@ -11,7 +11,7 @@ Assemble LabVolt Robotic ARM and Design electronic Board for Program and Control
  Matlab files are [Final_Robot.fig](https://github.com/ahmadkh1995/5-DOF-LabVolt-Robotic-Arm/blob/master/Final_Robot.fig) and [Final_Robot.m](https://github.com/ahmadkh1995/5-DOF-LabVolt-Robotic-Arm/blob/master/Final_Robot.m) which located in above directory.
 
 
- Below you can see pictures of Robotic ARM .(PCB designed in Altiume Designer Software).
+ Below you can see pictures of Robotic ARM .(PCB designed in Altium Designer Software).
 
 ### Robotic Arm
 
