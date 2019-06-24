@@ -14,6 +14,7 @@ Assemble LabVolt Robotic ARM and Design electronic Board for Program and Control
  Below you can see pictures of Robotic ARM .(PCB designed in Altium Designer Software).
 
 ### Robotic Arm
+
 <p align="center">
   <img width="400" height="250" src="https://github.com/ahmadkh1995/5-DOF-LabVolt-Robotic-Arm/blob/master/Robot_ARM.jpg">
   <img width="400" height="250" src="https://github.com/ahmadkh1995/5-DOF-LabVolt-Robotic-Arm/blob/master/Robot_2.jpg">
@@ -22,13 +23,17 @@ Assemble LabVolt Robotic ARM and Design electronic Board for Program and Control
   <img width="400" height="250" src="https://github.com/ahmadkh1995/5-DOF-LabVolt-Robotic-Arm/blob/master/Robot_3.jpg">
   <img width="400" height="250" src="https://github.com/ahmadkh1995/5-DOF-LabVolt-Robotic-Arm/blob/master/Robot.jpg">
 </p>
+
 ### PCB (Altiume Designer)
+
 <p align="center">
   <img width="300" height="200" src="https://github.com/ahmadkh1995/5-DOF-LabVolt-Robotic-Arm/blob/master/PCB_1.jpg">
   <img width="300" height="200" src="https://github.com/ahmadkh1995/5-DOF-LabVolt-Robotic-Arm/blob/master/PCB.PNG">
   <img width="300" height="200" src="https://github.com/ahmadkh1995/5-DOF-LabVolt-Robotic-Arm/blob/master/PCB_3D.PNG">
 </p>
+
 ### Designed Board attached to Arduino Mega
+
 <p align="center">
   <img width="400" height="250" src="https://github.com/ahmadkh1995/5-DOF-LabVolt-Robotic-Arm/blob/master/PCB_2.jpg">
   <img width="400" height="250" src="https://github.com/ahmadkh1995/5-DOF-LabVolt-Robotic-Arm/blob/master/PCB_3.jpg">
